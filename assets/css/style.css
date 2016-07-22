@@ -1,0 +1,52 @@
+
+
+.clearfix {
+  overflow: auto;
+  
+}
+
+
+
+body {
+	background-image: url(../images/2917501-star-wars-fighter-squadron-site.jpg);
+	background-size: 100% auto;
+	font-family: 'Droid Sans Mono';
+
+}
+
+
+section {
+	border-width: 5px;
+	border-style: solid;
+	border-color: #006400;
+	background-color: white;
+	text-align: center;
+	height:150px;
+	width: 150px;
+	display: inline-block;
+
+
+
+}
+
+header {
+	text-align: right;
+	font-size: 30px;
+	padding-right: 100px;
+
+}
+
+h3 {
+	font-size: 20px;
+	
+}
+
+footer {
+	text-align: center;
+	font-size: 18px;
+	color: orange;
+}
+
+#enemies {
+	height: 120px;
+}
